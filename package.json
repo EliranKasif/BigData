@@ -1,0 +1,16 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "create a service with webform that query to mongodb with nodejs server and ejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliran Kasif && Noy Simantov && Or Azulay",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.9"
+  }
+}
